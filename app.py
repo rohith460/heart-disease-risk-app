@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import plotly.express as px
 import plotly.graph_objects as go
 import pickle
 
@@ -359,3 +358,4 @@ if st.button("🔍 Predict Risk"):
     **Disclaimer:** This tool is for educational purposes only.  
     Always consult a qualified healthcare professional for diagnosis.
     """)
+
